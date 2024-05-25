@@ -1,0 +1,51 @@
+Var,Coefficient,Label
+Sosyal Güvenlik Kapsamındaki Aktif Çalışanların İl Nüfusuna Oranı,"0,917",SY
+Kişi Başı GSYH,"0,914",SY
+On Bin Kişiye Düşen Diş Hekimi Sayısı,"0,867",SAG
+Kişi Başına Düşen Banka Mevduatı Tutarı,"0,846",SY
+Hane Başına Sabit Genişbant İntemet Abone Sayısı,"0,842",ALT
+Yüz Bin Kişiye Düşen Marka Başvuru Sayısı,"0,842",EGT
+Bin Kişiye Düşen Özel Otomobil Sayısı,"0,812","SY,ULS"
+Okuryazar Kadın Oranı,"0,811",EGT
+Kişi Başı Mesken Elektrik Tüketimi,"0,793",SY
+Kişi Başına Düşen Mobil Telefon Abone Sayısı,"0,789",ALT
+Çalışma Çağındaki Nüfusun İl Nüfusuna Oranı,"0,779",DEM
+Primi Devlet Tarafindan Ödenen Nüfusun İl Nüfusuna Oranı*,"0,771","SY,DEM"
+Bin Kişiye Düşen AVM Brüt Kiralanabilir Alan,"0,758","SY,ALT"
+On Bin Kişiye Düşen Eczane Sayısı,"0,743",SAG
+Yüksekokul veya Fakülte Mezunu Nüfusun 22 Yaş ve Üzeri Nüfusa Oranı,"0,734",EGT
+Yüksek Lisans veya Doktora Sahibi Nüfusun 30 Yaş ve Üzeri Nüfusa Oranı,"0,730",EGT
+Yüz Bin Kişiye Düşen Patent Başvuru Sayısı,"0,721",EGT
+Otoyol ve Devlet Yollarının Yük/Km Değeri,"0,712",ULS
+Teşvik Belgeli Yatırım Tutarının Türkiye İçindeki Payı,"0,711",ALT
+YGS Ortalama Başarı Puanı,"0,659",EGT
+Yaşa Özel Doğurganlık Oranı*,"0,654",DEM
+Genel Ortaöğretim Net Okullaşma Oranı,"0,652",EGT
+On Bin Kişiye Düşen Hekim Sayısı,"0,650",SAG
+Kişi Başına Düşen Merkezi Bütçe Geliri,"0,635",SY
+Kişi Başına Düşen İhracat Tutarı,"0,629",SY
+Ortalama Ginlik Kazanc - Kadın,"0,622",SY
+İmalat Sanayii İşyerlerinin Türkiye İçindeki Payı,"0,621",SY
+Banka Kredilerinin Türkiye İçindeki Payı,"0,601",SY
+On Bin Kişiye Düşen Yabancı Sermayeli Şirket Sayısı,"0,599",SY
+Kırsal Kesim Asfalt-Beton Koy Yolu Oranı,"0,592",ULS
+OSB'lerde Üretim Yapılan Parsellerin Türkiye İçindeki Payı,"0,583",SY
+İmalat Sanayii Kayıtlı İşyeri Oranı,"0,564",SY
+Nüfus Yoğunluğu,"0,556",DEM
+Net Göç Hızı,"0,521",DEM
+Mesleki ve Teknik Liseler Okullaşma Oranı,"0,513",EGT
+Ortalama Günlük Kazanç,"0,507",SY
+İmalat Sanayii İstihdamının Sigortalı İstihdam İçindeki Oranı,"0,503",SY
+Yüz Bin Kişi Başına Ceza İnfaz Kurumuna Giren Hükümlü Sayısı,"0,487",SY
+KSS İşyeri Sayısının Türkiye İçindeki Payı,"0,485",SY
+Şehirleşme Oranı,"0,464","ALT,SY,ULS,EGT,SAG"
+Demiryolu Hattının İlin Yüzölçümüne Oranı,"0,435",ULS
+Turizm Yatırım-İşletme Belgeli Yatak Sayısının Türkiye İçindeki Payı,"0,409",ALT
+Kişi Başı Sanayi Elektrik Tüketimi,"0,407",SY
+İşgücüne Katılma Oranı,"0,395",SY
+Tarımsal Üretim Değerinin Türkiye İçindeki Payı,"0,381",SY
+Sosyal Güvenlik Kapsamı Dışında Kalan Nüfusun İl Nüfusuna Oranı*,"0,361",SY
+Yüz Bin Kişiye Düşen Hastane Yatak Sayısı,"0,312",SAG
+Kükürtdioksit (SO2) Ortalama Değeri*,"0,279",SY
+İçme ve Kullanma Suyu Şebekesi Verilen Nüfusun Belediye Nüfusu İçindeki Oranı,"0,235",ALT
+İşsizlik Oranı*,"0,235",SY
